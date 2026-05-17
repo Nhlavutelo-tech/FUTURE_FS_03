@@ -27,13 +27,6 @@ volley_and_vibes/
     └── (placeholder for images)
 ```
 
-## 🚀 How to Use
-
-1. **Open** `index.html` in Chrome, Firefox, Safari, or Edge
-2. **Customize** the business details (name, address, phone, pricing)
-3. **Deploy** to GitHub Pages, Netlify, or any web host
-4. **Connect** real Google Maps and WhatsApp business number
-
 ## 🛠️ Tech Stack
 
 - HTML5 (Semantic markup)
@@ -55,7 +48,7 @@ This website solves real problems for local sports businesses:
 
 ## 📄 License
 
-Built for educational and commercial use. Customize freely for your clients.
+Built for educational and commercial use.
 
 ---
 **Built with 💚 for the love of the game.**
